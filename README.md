@@ -61,7 +61,7 @@ Desafíos del dataset:
 
 ## **Video**
 
-🎥 [Ver video en YouTube](https://youtu.be/)
+🎥 [Ver video en YouTube](https://youtu.be/Ud0KVgco0O8)
 
 ## **Notebook Acumulativo**
 
